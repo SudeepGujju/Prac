@@ -1,1 +1,4 @@
 Hello this is the first file for commit in master brach
+
+
+This line was added in feature branch after updating and commiting this file in master branch
